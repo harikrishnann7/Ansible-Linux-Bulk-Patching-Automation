@@ -8,6 +8,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 raju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://archive.ubuntu.com/ubuntu noble-updates InRelease
@@ -18,6 +19,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 haju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
@@ -28,6 +30,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 ansible_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://archive.ubuntu.com/ubuntu noble-updates InRelease
@@ -38,6 +41,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 raju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
@@ -48,6 +52,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 haju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
@@ -58,6 +63,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 ansible_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
 Hit:2 http://archive.ubuntu.com/ubuntu noble-updates InRelease
@@ -68,6 +74,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 raju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
 Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
@@ -78,6 +85,7 @@ Building dependency tree...
 Reading state information...
 50 packages can be upgraded. Run 'apt list --upgradable' to see them.
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
 haju_172.23.80.102 | CHANGED | rc=0 >>
 Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
 Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
